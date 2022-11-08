@@ -3,7 +3,7 @@
 | Channel Logo                                                  | Channel Name                          | Channel       |
 | :---                                                          |    :----:                             |          ---: |
 | <img src="techno.jpg" alt="drawing" width="75"/>              | [Techno](techno.jpg)                  | Dance TV      |
-| <img src="melodic-tech.jpg" alt="drawing" width="75"/>        | [Melodic Tech](melodic-tech.jpg)      | Dance TV      |
+| <img src="mtDance.jpg" alt="drawing" width="75"/>             | [Melodic Tech](melodic-tech.jpg)      | Dance TV      |
 | <img src="house.jpg" alt="drawing" width="75"/>               | [House](house.jpg)                    | Dance TV      |
 | <img src="edm-mainstage.jpg" alt="drawing" width="75"/>       | [EDM](edm-mainstage.jpg)              | Dance TV      |
 | <img src="deep-tech-minimal.jpg" alt="drawing" width="75"/>   | [Deep Tech](deep-tech-minimal.jpg)    | Dance TV      |
