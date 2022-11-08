@@ -1,7 +1,7 @@
 # logo
 
 | Channel Logo                                                  | Channel Name                          | URL               | Channel       |
-| :---                                                          |    :----:                             |  :----::          |          ---: |
+| :---                                                          |    :----:                             |  :----:           |          ---: |
 | <img src="techno.jpg" alt="drawing" width="75"/>              | [Techno](techno.jpg)                  | Dance TV          |               |
 | <img src="mtDance.jpg" alt="drawing" width="75"/>             | [Melodic Tech](mtDance.jpg)           | logo/mtDancejpg   | Dance TV      |
 | <img src="house.jpg" alt="drawing" width="75"/>               | [House](house.jpg)                    | Dance TV          |               |
